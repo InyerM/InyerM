@@ -16,8 +16,9 @@
 - ⚡ How to reach me inyermedina10@gmail.con  
   
 
-- 👨‍💻 All of my projects are available at https://github.com/InyerM  
-  
+- 👨‍💻 All of my projects are available at https://github.com/InyerM
+
+- 🚀 Check my portfolio at https://inyerm-portfolio.vercel.app/
 
 <br/>  
 
