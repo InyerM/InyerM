@@ -3,8 +3,6 @@
 
 ### <div align="center">Fullstack developer focused on Web development with Javascript and Typescript 🚀, currently, learning a bit about software development for mobile platforms 📱</div>  
   
-
-- 🔭 I’m currently working on [Inlaze](https://inlaze.com/en/) 💛
   
 
 - 🌱 I’m currently learning Mobile development with Flutter  
